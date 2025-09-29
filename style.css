@@ -11,7 +11,7 @@ body {
 header {
     background-color: #222;
     color: white;
-    padding: 50px 20px;
+    padding: 20px 20px;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 }
 
 p {
-    margin: 10px 0 0 0;
+    margin: 5px 0 0 0;
     font-size: 1.2em;
 }
 
@@ -65,4 +65,5 @@ footer {
     padding: 20px;
     margin-top: 40px;
 }
+
 
