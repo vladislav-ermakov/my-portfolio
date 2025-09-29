@@ -30,7 +30,7 @@ p {
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
-    max-width: 90%;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -65,3 +65,4 @@ footer {
     padding: 20px;
     margin-top: 40px;
 }
+
